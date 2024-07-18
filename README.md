@@ -66,7 +66,7 @@ After the pre-processing is set, a video with skeleton analysis will pop up.
 
 <img src="demo.png" style="width:600px"></img>
 
-You can also see the skeleton analysis similarity percentage on the terminal.
+You can also see the skeleton analysis similarity percentage on the terminal. The similarity is **95.24%**.
 
 <img src="demo2.png" style="width:300px"></img>
 
