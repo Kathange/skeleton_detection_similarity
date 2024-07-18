@@ -15,11 +15,11 @@ pip install mediapipe numpy opencv-python
   </tr>
   <tr>
     <td>a.py</td>
-    <td></td>
+    <td>Test whether the mediapipe can execute normally</td>
   </tr>
   <tr>
     <td>b.py</td>
-    <td></td>
+    <td>How to extract the skeleton for angle calculations <br> Determine current posture by calculating angles</td>
   </tr>
   <tr>
     <td>c.py</td>
@@ -43,15 +43,15 @@ pip install mediapipe numpy opencv-python
   </tr>
   <tr>
     <td>h.py</td>
-    <td></td>
+    <td>Use OpenCV to read two video <br> Do skeleton detect separately <br> There is two videos so we have two windows</td>
   </tr>
   <tr>
     <td>i.py</td>
-    <td></td>
+    <td>Use OpenCV to read two video <br> Do skeleton detect separately <br> After analysis, merge into the same window for viewing</td>
   </tr>
   <tr>
     <td>j.py</td>
-    <td></td>
+    <td>Use OpenCV to read two video <br> Do skeleton detect separately <br> And analyze the skeleton similarity <br> After analysis, merge into the same window for viewing</td>
   </tr>
 </table>
 
