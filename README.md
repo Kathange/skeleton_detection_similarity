@@ -12,7 +12,7 @@ pip install mediapipe numpy opencv-python
 
 ***b.py***
 
-***c.py*** : Use OpenCV to read video
+:::c.py::: : Use OpenCV to read video
 
 ***d.py***
 
