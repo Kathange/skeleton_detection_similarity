@@ -60,9 +60,9 @@ pip install mediapipe numpy opencv-python
 # Demo
 Take **j.py** as an example :
 
-![demo](demo.gif "demo")
+<div style="width:600px">![demo](demo.gif "demo")</div>
 
-<img src="demo.png" style="width:400px"></img>
+<img src="demo.png" style="width:600px"></img>
 
 # References
 [使用Mediapipe分析動作](https://hackmd.io/@am534143/r1pch8Y1p#%E4%BD%BF%E7%94%A8Mediapipe%E5%88%86%E6%9E%90%E5%8B%95%E4%BD%9C) reference of a.py & b.py \
