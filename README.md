@@ -8,17 +8,19 @@ pip install mediapipe numpy opencv-python
 ```
 
 # Code Explain
----
-Program: a.py | b.py
-Explain: test1 | test2
----
-
----
-layout: forward
-target: https://developers.google.com/mediapipe
-title: Home
-nav_order: 1
----
+<table>
+  <tr>
+    <th>Program</td>
+    <th>Explain</td>
+  </tr>
+  <tr>
+    <td>a.py</td>
+    <td>test1</td>
+    
+    <td>b.py</td>
+    <td>test2</td>
+  </tr>
+</table>
 
 ***a.py***
 
