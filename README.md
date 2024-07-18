@@ -59,7 +59,7 @@ pip install mediapipe numpy opencv-python
 
 # Demo
 Take **j.py** as an example :
-<video><source src="demo.mp4" type="video/mp4"></video>
+<video width="400" height="210" controls><source src="demo.mp4" type="video/mp4"></video>
 <img src="demo.png"></img>
 
 # References
