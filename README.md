@@ -16,7 +16,6 @@ pip install mediapipe numpy opencv-python
   <tr>
     <td>a.py</td>
     <td>test1</td>
-    
     <td>b.py</td>
     <td>test2</td>
   </tr>
