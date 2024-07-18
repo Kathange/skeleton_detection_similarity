@@ -3,7 +3,9 @@
 This is a series of skeletal similarity detections between two videos.
 
 # Package
-```pip install mediapipe numpy opencv-python```
+```
+pip install mediapipe numpy opencv-python
+```
 
 # Code Explain
 ***a.py***\
