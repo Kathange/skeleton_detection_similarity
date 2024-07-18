@@ -21,6 +21,10 @@ pip install mediapipe numpy opencv-python
     <td>b.py</td>
     <td>test2</td>
   </tr>
+  <tr>
+    <td>c.py</td>
+    <td>test3</td>
+  </tr>
 </table>
 
 ***a.py***
