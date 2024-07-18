@@ -66,6 +66,10 @@ After the pre-processing is set, a video with skeleton analysis will pop up.
 
 <img src="demo.png" style="width:600px"></img>
 
+You can also see the skeleton analysis similarity percentage on the terminal.
+
+<img src="demo2.png" style="width:300px"></img>
+
 # References
 [使用Mediapipe分析動作](https://hackmd.io/@am534143/r1pch8Y1p#%E4%BD%BF%E7%94%A8Mediapipe%E5%88%86%E6%9E%90%E5%8B%95%E4%BD%9C) reference of a.py & b.py \
 [Mediapipe姿勢偵測Pose](https://steam.oxxostudio.tw/category/python/ai/ai-mediapipe-pose.html)\
