@@ -57,6 +57,10 @@ pip install mediapipe numpy opencv-python
   </tr>
 </table>
 
+# Demo
+Take **j.py** as an example :
+
+
 # References
 [使用Mediapipe分析動作](https://hackmd.io/@am534143/r1pch8Y1p#%E4%BD%BF%E7%94%A8Mediapipe%E5%88%86%E6%9E%90%E5%8B%95%E4%BD%9C) reference of a.py & b.py \
 [Mediapipe姿勢偵測Pose](https://steam.oxxostudio.tw/category/python/ai/ai-mediapipe-pose.html)\
