@@ -60,7 +60,9 @@ pip install mediapipe numpy opencv-python
 # Demo
 Take **j.py** as an example :
 
-<div style="width:600px">![demo](demo.gif "demo")</div>
+![demo](demo.gif "demo")
+
+After the pre-processing is set, a video with skeleton analysis will pop up.
 
 <img src="demo.png" style="width:600px"></img>
 
