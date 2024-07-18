@@ -2,6 +2,8 @@
 
 This is a series of skeletal similarity detections between two videos.
 
+The only code that can execute the "skeleton_detection_similarity" is "j.py".
+
 # Package
 ```
 pip install mediapipe numpy opencv-python
