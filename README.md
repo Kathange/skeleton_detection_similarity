@@ -5,6 +5,17 @@ This is a series of skeletal similarity detections between two videos.
 # Package
 ```pip install mediapipe numpy opencv-python```
 
+# Code Explain
+***a.py***
+***b.py***
+***c.py***
+++Use OpenCV to read video++
+***d.py***
+***e.py***
+***f.py***
+***g.py***
+***h.py***
+***i.py***
 
 # References
 [使用Mediapipe分析動作](https://hackmd.io/@am534143/r1pch8Y1p#%E4%BD%BF%E7%94%A8Mediapipe%E5%88%86%E6%9E%90%E5%8B%95%E4%BD%9C)\
