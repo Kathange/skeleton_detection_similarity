@@ -6,15 +6,15 @@ This is a series of skeletal similarity detections between two videos.
 ```pip install mediapipe numpy opencv-python```
 
 # Code Explain
-***a.py***
-***b.py***
-***c.py***
-++Use OpenCV to read video++
-***d.py***
-***e.py***
-***f.py***
-***g.py***
-***h.py***
+***a.py***\
+***b.py***\
+***c.py***\
+_Use OpenCV to read video_
+***d.py***\
+***e.py***\
+***f.py***\
+***g.py***\
+***h.py***\
 ***i.py***
 
 # References
