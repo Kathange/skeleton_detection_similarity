@@ -27,19 +27,19 @@ pip install mediapipe numpy opencv-python
   </tr>
   <tr>
     <td>d.py</td>
-    <td></td>
+    <td>Use OpenCV to read two video</td>
   </tr>
   <tr>
     <td>e.py</td>
-    <td></td>
+    <td>Use OpenCV to read two video <br> One on the left and one on the right</td>
   </tr>
   <tr>
     <td>f.py</td>
-    <td></td>
+    <td>Use OpenCV to read video <br> Do skeleton detect</td>
   </tr>
   <tr>
     <td>g.py</td>
-    <td></td>
+    <td>Use OpenCV to read two video <br> One on the left and one on the right <br> Do skeleton detect <br> Currently unavailable <br> Because mediapipe does not support detecting the skeletons of multiple people</td>
   </tr>
   <tr>
     <td>h.py</td>
