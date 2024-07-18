@@ -60,7 +60,7 @@ pip install mediapipe numpy opencv-python
 # Demo
 Take **j.py** as an example :
 
-[![Watch the video]](demo.mp4)
+[![Watch the video](https://github.com/Kathange/skeleton_detection_similarity/blob/main/demo.png)](https://github.com/Kathange/skeleton_detection_similarity/blob/main/demo.mp4)
 <img src="demo.png"></img>
 
 # References
