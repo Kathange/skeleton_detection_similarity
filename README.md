@@ -2,7 +2,7 @@
 
 This is a series of skeletal similarity detections between two videos.
 
-The only code that can execute the **skeleton_detection_similarity** is **j.py**.
+The only two program that can execute the **skeleton_detection_similarity** is **j.py** & **k.py**.
 
 # Package
 ```
@@ -55,6 +55,10 @@ pip install mediapipe numpy opencv-python
     <td>j.py</td>
     <td>Use OpenCV to read two video <br> Do skeleton detect separately <br> And analyze the skeleton similarity <br> After analysis, merge into the same window for viewing</td>
   </tr>
+  <tr>
+    <td>j.py</td>
+    <td>Use OpenCV to read two video <br> Do skeleton detect separately <br> And analyze the skeleton similarity <br> After analysis, merge into the same window for viewing <br> Turn j.py into a class</td>
+  </tr>
 </table>
 
 # Demo
@@ -66,7 +70,7 @@ After the pre-processing is set, a video with skeleton analysis will pop up.
 
 <img src="demo.png" style="width:600px"></img>
 
-You can also see the skeleton analysis similarity percentage on the terminal. The similarity is **95.24%**.
+After detection, you can also see the skeleton analysis similarity percentage on the terminal. The similarity is **95.24%**.
 
 <img src="demo2.png" style="width:300px"></img>
 
