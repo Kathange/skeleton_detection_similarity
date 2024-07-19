@@ -175,7 +175,7 @@ with mp_pose.Pose(
 print("keypoint len:", len(key_points))
 print("list len:", len(similarity_list))
 # 印出相似度
-print(f"Similarity: {np.mean(similarity_list):.2f}%")
+print(f"Average Similarity: {np.mean(similarity_list):.2f}%")
 
 # 釋放視頻對象並關閉所有窗口
 cap1.release()
