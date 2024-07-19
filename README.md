@@ -56,7 +56,7 @@ pip install mediapipe numpy opencv-python
     <td>Use OpenCV to read two video <br> Do skeleton detect separately <br> And analyze the skeleton similarity <br> After analysis, merge into the same window for viewing</td>
   </tr>
   <tr>
-    <td>j.py</td>
+    <td>k.py</td>
     <td>Use OpenCV to read two video <br> Do skeleton detect separately <br> And analyze the skeleton similarity <br> After analysis, merge into the same window for viewing <br> Turn j.py into a class</td>
   </tr>
 </table>
