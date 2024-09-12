@@ -2,7 +2,7 @@
 
 This is a series of skeletal similarity detections between two videos.
 
-The only two program that can execute the **skeleton_detection_similarity** is **j.py** & **k.py**.
+Three program that can execute the **skeleton_detection_similarity** is **j.py** & **k.py** & **l.py**.
 
 # Package
 ```
@@ -58,6 +58,10 @@ pip install mediapipe numpy opencv-python
   <tr>
     <td>k.py</td>
     <td>Use OpenCV to read two video <br> Do skeleton detect separately <br> And analyze the skeleton similarity <br> After analysis, merge into the same window for viewing <br> Turn j.py into a class</td>
+  </tr>
+  <tr>
+    <td>l.py</td>
+    <td>base on k.py, in addition to angle analysis, there is also absolute position comparison</td>
   </tr>
 </table>
 
