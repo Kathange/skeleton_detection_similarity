@@ -67,15 +67,15 @@ pip install mediapipe numpy opencv-python matplotlib
   </tr>
   <tr>
     <td>m.py</td>
-    <td>extension of l.py, add a function about writing csv file and chart to analyze changes in similarity</td>
+    <td>extension of l.py, add a function about writing csv file and generating chart to analyze changes in similarity</td>
   </tr>
   <tr>
     <td>n.py</td>
-    <td>123</td>
+    <td>extension of m.py, it can automatically detect and adjust video width and height</td>
   </tr>
   <tr>
     <td>o.py</td>
-    <td>123</td>
+    <td>extension of n.py, it can automatically detect and adjust video frame rate</td>
   </tr>
 </table>
 
@@ -94,7 +94,7 @@ After detection, you can also see the skeleton analysis similarity percentage on
 
 # Demo o.py
 Take **o.py** as an example :
-
+施工中...
 
 # References
 [使用Mediapipe分析動作](https://hackmd.io/@am534143/r1pch8Y1p#%E4%BD%BF%E7%94%A8Mediapipe%E5%88%86%E6%9E%90%E5%8B%95%E4%BD%9C) reference of a.py & b.py \
