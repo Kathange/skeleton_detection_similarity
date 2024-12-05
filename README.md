@@ -75,7 +75,7 @@ pip install mediapipe numpy opencv-python matplotlib
   </tr>
   <tr>
     <td>o.py</td>
-    <td>extension of n.py, it can automatically detect and adjust two video into frame rate</td>
+    <td>extension of n.py, it can automatically detect and adjust two video into same frame rate</td>
   </tr>
 </table>
 
