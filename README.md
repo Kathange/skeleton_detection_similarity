@@ -1,12 +1,14 @@
 # skeleton_detection_similarity
 
-This is a series of skeletal similarity detections between two videos.
+This is a series of skeleton similarity detections between two videos.
 
-Three program that can execute the **skeleton_detection_similarity** is **j.py** & **k.py** & **l.py**.
+Programs that can execute the **skeleton_detection_similarity** are **j.py** & **k.py** & **l.py** & **m.py** & **n.py** & **o.py**.
+
+And **o.py** is the newest program.
 
 # Package
 ```
-pip install mediapipe numpy opencv-python
+pip install mediapipe numpy opencv-python matplotlib
 ```
 
 # Code Explain
@@ -63,9 +65,21 @@ pip install mediapipe numpy opencv-python
     <td>l.py</td>
     <td>base on k.py, in addition to angle analysis, there is also absolute position comparison</td>
   </tr>
+  <tr>
+    <td>m.py</td>
+    <td>123</td>
+  </tr>
+  <tr>
+    <td>n.py</td>
+    <td>123</td>
+  </tr>
+  <tr>
+    <td>o.py</td>
+    <td>123</td>
+  </tr>
 </table>
 
-# Demo
+# Demo j.py
 Take **j.py** as an example :
 
 ![demo](demo.gif "demo")
@@ -77,6 +91,10 @@ After the pre-processing is set, a video with skeleton analysis will pop up.
 After detection, you can also see the skeleton analysis similarity percentage on the terminal. The similarity is **95.24%**.
 
 <img src="demo2.png" style="width:300px"></img>
+
+# Demo o.py
+Take **o.py** as an example :
+
 
 # References
 [使用Mediapipe分析動作](https://hackmd.io/@am534143/r1pch8Y1p#%E4%BD%BF%E7%94%A8Mediapipe%E5%88%86%E6%9E%90%E5%8B%95%E4%BD%9C) reference of a.py & b.py \
