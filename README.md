@@ -71,11 +71,11 @@ pip install mediapipe numpy opencv-python matplotlib
   </tr>
   <tr>
     <td>n.py</td>
-    <td>extension of m.py, it can automatically detect and adjust video width and height</td>
+    <td>extension of m.py, it can automatically detect and adjust two video into same width and height</td>
   </tr>
   <tr>
     <td>o.py</td>
-    <td>extension of n.py, it can automatically detect and adjust video frame rate</td>
+    <td>extension of n.py, it can automatically detect and adjust two video into frame rate</td>
   </tr>
 </table>
 
