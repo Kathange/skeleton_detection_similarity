@@ -67,7 +67,7 @@ pip install mediapipe numpy opencv-python matplotlib
   </tr>
   <tr>
     <td>m.py</td>
-    <td>123</td>
+    <td>extension of l.py, add a function about writing csv file and chart to analyze changes in similarity</td>
   </tr>
   <tr>
     <td>n.py</td>
